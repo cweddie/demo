@@ -1,0 +1,10 @@
+zookeeper:
+   ipAddrPort: 47.101.154.63:2181
+   lockNode: /Lock
+
+spring:
+   datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      username:
+      password:
+      url:
